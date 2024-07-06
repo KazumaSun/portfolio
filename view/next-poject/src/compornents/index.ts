@@ -1,2 +1,1 @@
-export { Card } from './Card'
-export { Button } from './Button'
+export { Button } from './common/Button'
