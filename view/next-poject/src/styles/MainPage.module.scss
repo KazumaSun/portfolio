@@ -1,0 +1,15 @@
+.nav_style {
+  position: fixed;
+  padding-top: 5%;
+  padding-left: 5%;
+  width: auto;
+  z-index: 50;
+}
+
+.li_style {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  gap: 1rem;
+  font-size: 2rem;
+}

@@ -1,6 +1,7 @@
 import React, { ReactNode, useEffect, useState } from "react";
-import styles from "./Header.module.scss"
 import clsx from "clsx";
+
+import styles from "./Header.module.scss"
 import { formatDateToJapanTime } from "@/utils/formatDate";
 
 interface HeaderProps {
